@@ -1,0 +1,15 @@
+/** this style file **/
+
+#pages {
+    overflow: auto;
+    max-height: 180px;
+    border: 1px solid #ccc;
+    padding: 6px 10px;
+}
+
+#posts {
+    overflow: auto;
+    max-height: 180px;
+    border: 1px solid #ccc;
+    padding: 6px 10px;
+}
